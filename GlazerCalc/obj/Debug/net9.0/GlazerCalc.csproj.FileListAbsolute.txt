@@ -1,0 +1,14 @@
+/Users/marissacurry/programmingbook1project/GlazerCalc/bin/Debug/net9.0/GlazerCalc
+/Users/marissacurry/programmingbook1project/GlazerCalc/bin/Debug/net9.0/GlazerCalc.deps.json
+/Users/marissacurry/programmingbook1project/GlazerCalc/bin/Debug/net9.0/GlazerCalc.runtimeconfig.json
+/Users/marissacurry/programmingbook1project/GlazerCalc/bin/Debug/net9.0/GlazerCalc.dll
+/Users/marissacurry/programmingbook1project/GlazerCalc/bin/Debug/net9.0/GlazerCalc.pdb
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.AssemblyInfoInputs.cache
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.AssemblyInfo.cs
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.csproj.CoreCompileInputs.cache
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.dll
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/refint/GlazerCalc.dll
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.pdb
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/GlazerCalc.genruntimeconfig.cache
+/Users/marissacurry/programmingbook1project/GlazerCalc/obj/Debug/net9.0/ref/GlazerCalc.dll
