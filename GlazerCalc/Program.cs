@@ -8,7 +8,7 @@ class GlazerCalc
 
         string widthString, heightString;
 
-        Console.WriteLine(" Lets calcualte the  area of the woodlenght for the glass");
+        Console.WriteLine(" Lets calcualte the  area of  wood and glass to fit a window");
 
         Console.WriteLine("Enter the width");
 
